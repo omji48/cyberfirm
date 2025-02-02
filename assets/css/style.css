@@ -507,7 +507,8 @@ a {
   margin-left: 0 !important;
 }
 .redlight-dropdown .dropdown-content-redlight{
-  background:#5B1213;
+  background:#800080;
+  box-shadow: 0px 0px 10px #BF00FF; /* Neon glow effect */
   width: 100%;
 }
 .dropdown-item.active, .dropdown-item:active {
